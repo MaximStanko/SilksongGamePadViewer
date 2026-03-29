@@ -1,12 +1,12 @@
 :root {
-    --controller-background-image: url(https://maximstanko.github.io/GamePadViewer/images/base.svg);
+    --controller-background-image: url(https://maximstanko.github.io/GamePadViewer/images/base.png);
     --controller-disconnected-image: url(https://maximstanko.github.io/GamePadViewer/images/disconnected.png);
     --controller-touchpad-image: url(https://maximstanko.github.io/GamePadViewer/images/logo.png);
-    --controller-trigger-image: url(https://maximstanko.github.io/GamePadViewer/images/trigger.svg);
-    --controller-bumper-image: url(https://maximstanko.github.io/GamePadViewer/images/bumper.svg);
-    --controller-meta-pressed-image: url(https://maximstanko.github.io/GamePadViewer/images/meta.svg);
-    --controller-start-image: url(https://maximstanko.github.io/GamePadViewer/images/start-select.svg);
-    --controller-button-image: url(https://maximstanko.github.io/GamePadViewer/images/abxy.svg);
-    --controller-stick-image: url(https://maximstanko.github.io/GamePadViewer/images/stick.svg);
-    --controller-face-image: url(https://maximstanko.github.io/GamePadViewer/images/dpad.svg);
+    --controller-trigger-image: url(https://maximstanko.github.io/GamePadViewer/images/trigger.png);
+    --controller-bumper-image: url(https://maximstanko.github.io/GamePadViewer/images/bumper.png);
+    --controller-meta-pressed-image: url(https://maximstanko.github.io/GamePadViewer/images/meta.png);
+    --controller-start-image: url(https://maximstanko.github.io/GamePadViewer/images/start-select.png);
+    --controller-button-image: url(https://maximstanko.github.io/GamePadViewer/images/abxy.png);
+    --controller-stick-image: url(https://maximstanko.github.io/GamePadViewer/images/stick.png);
+    --controller-face-image: url(https://maximstanko.github.io/GamePadViewer/images/dpad.png);
 }

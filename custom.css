@@ -242,19 +242,19 @@
 }
 
 .custom .face.up {
-    background-position: 53px 0;
-    left: 37px;
+    background-position: 54px 0;
+    left: 38px;
     top: 0px;
 }
 
 .custom .face.down {
     left: 37px;
-    bottom: 0;
+    top: 1px;
 }
 
 .custom .face.left {
-    background-position: 0 -116px;
-    top: 38px;
+    background-position: 0 -115px;
+    top: 40px;
     left: 0;
 }
 

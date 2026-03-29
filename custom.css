@@ -253,13 +253,13 @@
 }
 
 .custom .face.left {
-    background-position: 0 -92px;
+    background-position: 0 -112px;
     top: 38px;
     left: 0;
 }
 
 .custom .face.right {
-    background-position: 0 -41px;
+    background-position: 0 -61px;
     top: 38px;
     right: 0;
 }

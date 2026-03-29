@@ -238,7 +238,7 @@
 
 .custom .face.left, .custom .face.right {
     width: 64px;
-    height: 53px;
+    height: 51px;
 }
 
 .custom .face.up {
@@ -253,13 +253,13 @@
 }
 
 .custom .face.left {
-    background-position: 0 -103px;
+    background-position: 0 64px;
     top: 38px;
     left: 0;
 }
 
 .custom .face.right {
-    background-position: 0 -51px;
+    background-position: 0 116px;
     top: 38px;
     right: 0;
 }

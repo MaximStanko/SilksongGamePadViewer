@@ -40,10 +40,11 @@
 }
 
 .custom .triggers {
-    width: 446px;
-    height: 121px;
+    width: 454px;
+    height: 151px;
     position: absolute;
-    left: 152px;
+    top: 3px;
+    left: 144px;
 }
 
 .custom .trigger {

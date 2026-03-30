@@ -125,6 +125,8 @@
 }
 
 .custom .back {
+    bottom: 20px;
+    right: 20px;
     float: left;
 }
 

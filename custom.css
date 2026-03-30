@@ -125,9 +125,9 @@
 }
 
 .custom .back {
-    bottom: 20px;
-    right: 20px;
-    float: left;
+    float: absolute;
+    bottom: 170px;
+    right: 350px;
 }
 
 .custom .start {

@@ -126,14 +126,14 @@
 
 .custom .back {
     position: absolute;
-    top: 170px;
-    left: 350px;
+    top: -20px;
+    left: -20px;
 }
 
 .custom .start {
     position: absolute;
-    top: 170px;
-    left: 450px;
+    top: -20px;
+    left: 80px;
 }
 
 .custom .abxy {
